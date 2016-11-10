@@ -1,0 +1,1 @@
+{"name":"Ransack debug issue new","repository":"https://github.com/initialversion/ransack_debug_issue_new","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
